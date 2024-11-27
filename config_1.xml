@@ -1,0 +1,7 @@
+<config>
+    <username>Alex</username>
+    <hostname>home_1</hostname>
+    <tar_path>C:\Users\home\Desktop\config_1_d\com_line\system.tar</tar_path>
+    <log_file>C:\Users\home\Desktop\config_1_d\com_line\log.csv</log_file>
+    <startup_script>C:\Users\home\Desktop\config_1_d\com_line\start_script.txt</startup_script>
+</config>
